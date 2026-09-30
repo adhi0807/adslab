@@ -1,2 +1,11 @@
-# adslab
-Questions for ADS Lab..
+# add
+# array
+# dlink
+# dlt
+# fib
+# krn
+# ms
+# nat
+# slink
+# sr
+# sub
